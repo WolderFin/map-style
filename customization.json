@@ -6843,5 +6843,6 @@
         "stylers": {
             "visibility": "off"
         }
-    }
+    },
+    {"type":"FeatureCollection","metadata":{"name":"Без названия","creator":"Yandex Map Constructor"},"features":[{"type":"Feature","id":0,"geometry":{"type":"Point","coordinates":[65.21385335351556,55.4607280773849]},"properties":{"marker-color":"#1e98ff"}},{"type":"Feature","id":1,"geometry":{"type":"Point","coordinates":[65.39650105859364,55.45940722855336]},"properties":{"marker-color":"#1e98ff"}},{"type":"Feature","id":2,"geometry":{"type":"Point","coordinates":[65.31444692040965,55.49392161818773]},"properties":{"marker-color":"#1e98ff"}},{"type":"Feature","id":3,"geometry":{"type":"Point","coordinates":[65.31822347070309,55.464058407280476]},"properties":{"marker-color":"#1e98ff"}},{"type":"Feature","id":4,"geometry":{"type":"Point","coordinates":[65.31959676171866,55.43130532656186]},"properties":{"marker-color":"#1e98ff"}},{"type":"Feature","id":5,"geometry":{"type":"Point","coordinates":[65.10399007226553,55.45160316082867]},"properties":{"marker-color":"#1e98ff"}}]}
 ]
